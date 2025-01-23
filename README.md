@@ -14,17 +14,12 @@ To-Do List App/
   ├── style.css # The CSS file for styling the app 
   ├── script.js # JavaScript file for app functionality 
   └── images/ # Folder containing icon and checkbox images 
-    ├── icon.png ![icon](https://github.com/user-attachments/assets/0e25ead5-9097-4d33-b97f-796569ce32f7)
-
-
-    ├── checked.png ![checked](https://github.com/user-attachments/assets/ddfd8d79-26ef-449f-a440-7264edd452fb)
-
-    
-
-    └── unchecked.png ![unchecked](https://github.com/user-attachments/assets/ca17f988-eb93-46a7-8729-0fd1fa721766)
-
-
-
+    ├── icon.png
+      ![icon](https://github.com/user-attachments/assets/0e25ead5-9097-4d33-b97f-796569ce32f7)
+    ├── checked.png 
+      ![checked](https://github.com/user-attachments/assets/f4baf310-8d95-4ca4-8161-dbf20e8e2e4f)
+    └── unchecked.png 
+      ![unchecked](https://github.com/user-attachments/assets/a5fff890-2b0e-46d6-ab2a-9ebe8e7c116b)
 
 ## Technologies Used
 - **HTML**: For the structure of the application.
@@ -65,8 +60,6 @@ To-Do List App/
 - Add due dates with reminders.
 - Enable syncing across devices using a backend.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
