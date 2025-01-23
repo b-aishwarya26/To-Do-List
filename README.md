@@ -17,9 +17,12 @@ To-Do List App/
     ├── icon.png ![icon](https://github.com/user-attachments/assets/0e25ead5-9097-4d33-b97f-796569ce32f7)
 
 
-    ├── checked.png ![checked](https://github.com/user-attachments/assets/545c3c28-71c4-46f3-80c6-9436f585f705)
+    ├── checked.png ![checked](https://github.com/user-attachments/assets/ddfd8d79-26ef-449f-a440-7264edd452fb)
 
-    └── unchecked.png ![unchecked](https://github.com/user-attachments/assets/d1e89bb8-7429-4a56-8ecb-75fcf6e5d0e0)
+    
+
+    └── unchecked.png ![unchecked](https://github.com/user-attachments/assets/ca17f988-eb93-46a7-8729-0fd1fa721766)
+
 
 
 
